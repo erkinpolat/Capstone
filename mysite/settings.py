@@ -122,7 +122,7 @@ STATIC_URL = '/static/'
 
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_HOST_USER = "erkin.polat@minerva.kgi.edu"
-EMAIL_HOST_PASSWORD = "Prep2013"
+EMAIL_HOST_PASSWORD = ""
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
